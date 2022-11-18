@@ -1,7 +1,7 @@
 [package]
 name = "securum_exire_server"
 version = "0.1.5"
-authors = ["Mayank Kumar <mayank22oct@gmail.com>"]
+authors = ["Astha Jha <asthajha05@gmail.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
