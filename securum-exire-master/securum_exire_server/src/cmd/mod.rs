@@ -3,7 +3,7 @@ use std::ops::Add;
 pub fn parse_flags() -> String {
     let matches = App::new("Securum Exire Server")
         .version("0.1")
-        .author("Mayank Kumar <mayank22oct@gmail.com>")
+        .author("Astha Jha <asthajha05@gmail.com>")
         .arg(
             Arg::new("deployment")
                 .short('d')
