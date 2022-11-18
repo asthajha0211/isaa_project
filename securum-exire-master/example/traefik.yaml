@@ -16,5 +16,5 @@ providers:
 experimental:
     plugins:
         traefik-plugin-securum-exire:
-            moduleName: "github.com/mayankkumar2/traefik-plugin-securum-exire"
+            moduleName: "github.com/asthajha0211/traefik-plugin-securum-exire"
             version: "v1.0.1"
