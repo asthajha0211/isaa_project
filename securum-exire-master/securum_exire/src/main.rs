@@ -70,7 +70,7 @@ async fn main() {
     let mut m = String::new();
     let matches = App::new("Securum Exire")
         .version("1.0")
-        .author("Mayank Kumar <mayank22oct@gmail.com>")
+        .author("Astha Jha <asthajha05@gmail.com>")
         .about("CLI to run crons searching for credentials on a system")
         .arg(
             Arg::new("out")
